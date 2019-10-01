@@ -1,6 +1,6 @@
 # calculadora_imc
 
-A new Flutter application.
+A new Flutter application. In this project we build a calculator
 
 ## Getting Started
 
